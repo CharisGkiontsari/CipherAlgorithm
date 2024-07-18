@@ -1,2 +1,8 @@
 # CipherDemo
- A simple project implementing 3 different ciphers
+
+A simple project implementing three different ciphers:
+- Caesar Cipher
+- Euclidean Algorithm
+- Extended Euclidean Algorithm
+
+
