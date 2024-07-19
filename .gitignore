@@ -26,3 +26,8 @@ replay_pid*
 target/
 .mvn/
 .idea/
+
+.gitattributes
+mvnw.cmd
+mvnw
+HELP.md
