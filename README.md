@@ -1,9 +1,8 @@
 # CipherDemo
 
-A simple project implementing three different ciphers:
+A simple project implementing 2 different ciphers:
 - Caesar Cipher
 - Euclidean Algorithm 
-- Extended Euclidean Algorithm (To be added)
 
   A frontend will be implemented later on possibly using react.
 
